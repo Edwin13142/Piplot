@@ -13,7 +13,10 @@ defineProps({
     <Head title="Welcome" />
 
    <p>
-   AQUI EDITAMOSSSSS
+   AQUI EDITAMOSSSSS 
+   </p>
+   <p>
+   Nuevo comentario que agrego
    </p>
 </template>
 
